@@ -17,3 +17,7 @@ cd frontend
 npm install
 npm run dev
 ```
+
+## ERD Schema Diagram
+`school_management_schema` diagram.
+![school_management_schema](resources/school_management_schema.png)
